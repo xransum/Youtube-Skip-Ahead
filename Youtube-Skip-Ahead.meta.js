@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube Skip Ahead
 // @namespace    https://greasyfork.org/users/xransum
-// @version      1.0.0
+// @version      1.1.0
 // @description  Simple auto-clicker for skipping sponsored segments with the "Skip Ahead" button for Premium users.
 // @author       xransum (https://github.com/xransum)
 // @match        https://www.youtube.com/watch*
